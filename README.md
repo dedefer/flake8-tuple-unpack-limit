@@ -9,7 +9,7 @@ via `--max-unpack-length` option.
 
 ## Installation
 
-    pip install flake8-tuple-unpack-length
+    pip install flake8-tuple-unpack-limit
 
 
 ## Example
